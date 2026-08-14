@@ -121,3 +121,5 @@ R1(config-line)# exit
 
 ! --- 4. Encrypt Plaintext Passwords ---
 R1(config)# service password-encryption
+
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/cf110079-90eb-4d59-87ed-50fc5680b6f0" />
