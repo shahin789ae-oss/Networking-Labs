@@ -121,4 +121,3 @@ R1(config-line)# exit
 
 ! --- 4. Encrypt Plaintext Passwords ---
 R1(config)# service password-encryption
-
